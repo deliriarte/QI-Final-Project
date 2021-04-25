@@ -1,4 +1,4 @@
-# QI-Final-Project
+# Final Project
 Repository containing the final assignment for the course of Quantum Information. 
 
 The assignment consist on finding the ground state energies for the Hesienberg spin chain in the presence of an external magnetic field. 
